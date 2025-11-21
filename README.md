@@ -41,6 +41,7 @@ Professional photographers spend hours manually adjusting white balance settings
 
 ## 🚀 Installation & Usage
 
+```bash
   # Clone repository
   git clone https://github.com/yourusername/white-balance-ai.git
   cd white-balance-ai
@@ -53,7 +54,7 @@ Professional photographers spend hours manually adjusting white balance settings
   
   # Make predictions
   python predict.py --image_path path/to/image.tif
-
+```
 
 ## 🎨 Technical Highlights
 Multi-modal Learning: Combines image features + camera metadata
