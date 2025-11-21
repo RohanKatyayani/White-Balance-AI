@@ -41,21 +41,21 @@ Professional photographers spend hours manually adjusting white balance settings
 
 ## 🚀 Installation & Usage
 
-```bash
-# Clone repository
-git clone https://github.com/yourusername/white-balance-ai.git
-cd white-balance-ai
+  # Clone repository
+  git clone https://github.com/yourusername/white-balance-ai.git
+  cd white-balance-ai
+  
+  # Install dependencies
+  pip install torch torchvision pandas numpy opencv-python pillow matplotlib
+  
+  # Run training
+  python train.py
+  
+  # Make predictions
+  python predict.py --image_path path/to/image.tif
 
-# Install dependencies
-pip install torch torchvision pandas numpy opencv-python pillow matplotlib
 
-# Run training
-python train.py
-
-# Make predictions
-python predict.py --image_path path/to/image.tif
-
-🎨 Technical Highlights
+## 🎨 Technical Highlights
 Multi-modal Learning: Combines image features + camera metadata
 
 Production Ready: Handles real-world camera RAW formats
