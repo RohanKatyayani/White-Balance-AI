@@ -103,7 +103,7 @@ Temporal consistency for video sequences
 User feedback loop for continuous learning
 
 👨‍💻 Author
-Rohan Katyayani - [Your GitHub Profile]
+Rohan Katyayani - https://github.com/RohanKatyayani 
 
 Built as part of a real-world AI competition, demonstrating end-to-end machine learning capabilities from problem understanding to deployment-ready solution.
 
